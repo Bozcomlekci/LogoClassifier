@@ -1,1 +1,1 @@
-Place pretrains in this folder
+Place pretrained models in this folder

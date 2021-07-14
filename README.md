@@ -21,7 +21,7 @@ Run `req.sh` in the activated conda environment to setup requirements.
 
 You can follow a procedure similar to [this guide](https://github.com/open-mmlab/mmclassification/blob/master/docs/install.md) to install OpenMMLab libraries. 
 
-[Download pretrained models](https://drive.google.com/drive/folders/11u3pvnoTxQb_u8i989zFG5ejIu7-l3Ax?usp=sharing) for the logo classifier and move them into `pretrains` folder.
+[Download pretrained models](https://drive.google.com/drive/folders/11u3pvnoTxQb_u8i989zFG5ejIu7-l3Ax?usp=sharing) for the logo classifier and place them into `pretrains` folder.
 
 **! Currently, only .ipynb files are working properly, parser for .py files will be added later on.**
 

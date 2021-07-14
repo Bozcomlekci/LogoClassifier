@@ -20,3 +20,5 @@ conda install pytorch=1.8.0 torchvision=0.2.1 torchaudio=0.8.0 cudatoolkit=11.1 
 Run `req.sh` in the activated conda environment to setup requirements.
 
 You can follow a procedure similar to [this guide](https://github.com/open-mmlab/mmclassification/blob/master/docs/install.md) to install OpenMMLab libraries. 
+
+[Download pretrained models](https://drive.google.com/drive/folders/11u3pvnoTxQb_u8i989zFG5ejIu7-l3Ax?usp=sharing) for the logo classifier.

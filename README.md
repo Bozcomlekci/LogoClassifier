@@ -25,6 +25,6 @@ You can follow a procedure similar to [this guide](https://github.com/open-mmlab
 
 **! Currently, only .ipynb files are working properly, parser for .py files will be added later on.**
 
-For logo classification, perform the steps in `Augmentations & Split.ipynb` and `LogoClassifier.ipynb` files consequently. Organize a `logo_data` directory where the subdirectories named according to companies. These subdirectories should include logo images of specified companies.
+For logo classification, perform the steps in `Augmentations & Split.ipynb` and `LogoClassifier.ipynb` files consequently. Organize a `logo_data` directory where the subdirectories named according to companies. These subdirectories should include logo images of specified companies. Adjust the path for `logo_data` folder in `Augmentations & Split.ipynb` file.
 
 For OCR tool, perform the steps in `OCR Tool.ipynb` file.

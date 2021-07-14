@@ -6,9 +6,11 @@ For custom datasets, [OpenMMLab new dataset guide](https://github.com/open-mmlab
 
 Before installing the requirements, setup anaconda and create a new conda environment via 
 
-`conda create -n logo_cls python=3.7 -y
+```shell
+ conda create -n logo_cls python=3.7 -y
  conda activate logo_cls
- conda install pytorch torchvision -c pytorch`
+ conda install pytorch torchvision -c pytorch
+ ```
  
 You can follow a procedure similar to [this guide](https://github.com/open-mmlab/mmclassification/blob/master/docs/install.md). 
 
